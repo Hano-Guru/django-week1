@@ -53,5 +53,5 @@ class Image(models.Model):
         images = cls.objects.filter(image_category__name__contains = search_term)
         return images
  
-    
+
  
