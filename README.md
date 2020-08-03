@@ -59,7 +59,7 @@ You need the following to work on the project:
 * Django
 * HTML/CSS
 * Bootstrap
-
+ 
 ## License
 MIT License
 
