@@ -11,7 +11,7 @@ A personal gallery application that one displays their photos for others to see 
      **Output Example**: Various photos are displayed on the home page
 
 * The program should navigate to pages with photos for a specified location when a specific location is clicked:
-
+ 
      **Input Example**: Click on **Rwanda** on the navigation bar
 
      **Output Example**: Redirected to a page with photos taken in Rwanda
