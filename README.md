@@ -1,4 +1,4 @@
-# Personal Gallery App.m
+# Personal Gallery Application.
 #### A personal gallery application that one displays their photos for others to see.
 #### By **Hanad ahmed **
 ## Description
