@@ -54,7 +54,7 @@ class ImageTestCase(TestCase):
 
         self.new_image = Image(image_name = 'Test Image',image_description = 'Test Description',image_category = self.new_category,image_location = self.new_location)
         self.new_image.save_image()
-
+ 
     def tearDown(self):
         Category.objects.all().delete()
         Location.objects.all().delete()
