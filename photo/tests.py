@@ -63,4 +63,3 @@ class ImageTestCase(TestCase):
     def test_save_image(self):
         images = Image.objects.all()
         self.assertTrue(len(images) > 0)
- 
