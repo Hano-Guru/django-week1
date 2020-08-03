@@ -29,4 +29,3 @@ def search_category(request):
     else:
         message = "You haven't searched for any category"
         return render(request,'search.html',{'message':message,'locations':locations})
- 
